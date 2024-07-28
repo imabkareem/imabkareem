@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imabkareem
+- 👋 Hi, I’m Abdul Kareem
 - 👀 I’m interested in MERN devlopement
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Unique project
